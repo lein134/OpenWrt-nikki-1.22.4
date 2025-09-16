@@ -1,7 +1,7 @@
 {
     "admin/services/nikki": {
         "title": "Nikki",
-        "order": 0,
+        "order": 1,
         "action": {
             "type": "firstchild"
         },
